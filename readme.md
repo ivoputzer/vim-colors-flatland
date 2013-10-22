@@ -1,0 +1,1 @@
+Dedicated flatland color scheme version for vim users; the [original repo](https://github.com/thinkpixellab/flatland) is way to big if vim's all you need ;)
